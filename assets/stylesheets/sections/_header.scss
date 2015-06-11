@@ -1,0 +1,22 @@
+body{
+	/*margin:0px;*/
+}
+.mw-header {
+	background-color:$color1;
+	padding:10px;
+	padding-top:1px;
+}
+h1 > *{
+	color:white;
+	text-decoration:none;
+}
+#search_query{
+	width:70%;
+	height:30px;
+}
+.Button{
+	/*display:none;*/
+}
+#SearchForm{
+	color:white;
+}

@@ -1,0 +1,50 @@
+// Every page should have a class on the body
+// Scope that in each file at the start
+
+.mw-home {
+  
+}
+.mw-hidden, .FeedLink{
+	display:none;
+}
+h2{
+	text-align:center;
+}
+.mw-add2Cart{
+	background-color:$color1;
+	color:white;
+	padding:10px;
+	text-decoration:none;
+	font-weight:bold;
+	display:block;
+	text-align:center;
+	border-radius:5px;
+	border: 2px solid black;
+}
+.Block{
+	display:block;
+}
+ul{
+	display:block;
+	overflow:hidden;
+}
+li{
+	display:inline-block;
+	padding:10px;
+	width:200px;
+	text-align: -webkit-match-parent;
+}
+.mw-home-img{
+	display:block;
+	float:none!important;
+}
+#ModalOverlay{
+	background-color:#333333;
+}
+.mw-mc{
+	background-color:yellow;
+	margin-left:0px!important;
+	padding:20px;
+	border-radius:5px;
+	border: 2px solid black;
+}

@@ -1,0 +1,66 @@
+// Every page should have a class on the body
+// Scope that in each file at the start
+/*
+.mw-home {
+  
+}
+.mw-hidden, .FeedLink{
+	display:none;
+}
+h2{
+	text-align:center;
+}
+.mw-add2Cart{
+	background-color:$color1;
+	color:white;
+	padding:10px;
+	text-decoration:none;
+	font-weight:bold;
+	display:block;
+	text-align:center;
+	border-radius:5px;
+}
+.BlockContent{
+	display:block;
+}
+ul{
+	display:block;
+}
+li{
+	display:inline-block;
+	padding:10px;
+	width:200px;
+	text-align: -webkit-match-parent;
+}
+*/
+.SortBox{
+	background-color:$color1;
+	color:white;
+	padding:10px;
+	font-weight:bold;
+	border-radius:5px;
+	border: 2px solid black;
+	margin:10px;
+}
+.mw-cat-li{
+	display:block;
+	background-color:#eeeeee;
+	margin:10px;
+	min-height:130px;
+	width:auto;
+}
+.mw-cat-li > *{
+	display:inline;
+}
+.mw-home-img-cat{
+	margin-right:10px;
+	float:left!important;
+}
+.ProductList{	
+	padding-left:0px;
+}
+
+.mw-add2Cart-cat{
+	margin-left:130px;
+	width:150px!important;
+}
